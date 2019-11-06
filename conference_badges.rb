@@ -14,4 +14,4 @@ def assign_rooms(array)
   new_array=[]
   counter=1
   new_array each_with_index {|name,index| puts "Hello, #{name}! You will be assigned to room #{index}"}
-end 
+end
